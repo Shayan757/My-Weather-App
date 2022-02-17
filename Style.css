@@ -1,8 +1,4 @@
-/* * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-} */
+
 
 header{
     text-align: center;
@@ -18,12 +14,11 @@ header{
 
 
 .container-fluid{
-text-align: center;
-/* width: 410px; */
-width: 20rem;
-margin-top: 45px;
-margin-left: 259px;
-padding: 10px;
+    text-align: center;
+    width: 20rem;
+    margin-top: 45px;
+    margin-left: 259px;
+    padding: 10px;
 }
 
 body{
@@ -53,9 +48,7 @@ body{
 }
 
 .inputs input[type="submit"] {
-    /* height: 3.5rem; */
     height: 3rem;
-    /* width: 6.5rem; */
     width: 5.2rem;
     background: #0a67ca;
     font-weight: bold;
@@ -70,8 +63,6 @@ body{
     text-align:center;
      width: 340px;
      margin-left: 262px;
-     /* margin-right: 50px; */
-    /* border-left-width: 15px; */
     justify-content: center;
     color: #16a864;
     
